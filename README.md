@@ -1,6 +1,7 @@
 # MAIN-EXP
 
-### This repository is used to experiment ideas.
+## This repository is used to experiment ideas. Learn new features and develop programs.
+
 
 ## main.py
 
